@@ -13,7 +13,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BadPramaya">Janiya</a> to make it public
+Project created by <a href="https://github.com/BadPramaya">MR.</a> to make it public
     <br>
        | © |
         Reserved |
