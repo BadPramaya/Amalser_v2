@@ -262,10 +262,10 @@ ${chalk.blue.italic('✪ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*「👾 ᴊᴀɴɪʏᴀ ᴏꜰꜰɪᴄɪᴀʟ ʙᴏᴛ 👾」*' +
-                                    '\n*🔖 Fallow me other wise chance to get erorr: https://www.instagram.com/janitha129?r=nametag*' +
-                                    '\n\n*🔖 Send Massage Whatsapp: https://wa.me/94703767171*' +
-                                    '\n\n*🔖Name: Janitha Chathuranga*' +
+                                await conn.sendMessage(conn.user.jid, '*MR.PRAMAYA BOT」*' +
+                                    '\n*🔖 Fallow me other wise chance to get erorr: I'm on Instagram as @x_pramaya_x. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?i=edpvnzh5u4s8&utm_content=6rahyb2*' +
+                                    '\n\n*🔖 Send Massage Whatsapp: https://wa.me/94770611075*' +
+                                    '\n\n*🔖Name: MR.PRAMAYA*' +
                                     '\n\n*❲⚠️❳ ' + error + '*\n'
                                     , MessageType.text);
                             }
