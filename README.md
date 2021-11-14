@@ -9,11 +9,11 @@
 <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif?cid=ecf05e47mcqq04k1wdzifu80kqr8gvvza605e58k0w9s7tr4&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/JanithaChathuranga/Amalser_v2"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BadPramaya/Amalser_v2"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/JanithaChathuranga">Janiya</a> to make it public
+Project created by <a href="https://github.com/BadPramaya">Janiya</a> to make it public
     <br>
        | © |
         Reserved |
@@ -62,7 +62,7 @@ ___
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JanithaChathuranga/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BadPramaya/Amalser_v2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -71,7 +71,7 @@ ___
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/JanithaChathuranga/Amalser_v2
+$ git clone https://github.com/BadPramaya/Amalser_v2
 $ cd Amalser_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -80,7 +80,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/JanithaChathuranga/Amalser_v2
+$ git clone https://github.com/BadPramaya/Amalser_v2
 $ cd Amalser_v2
 $ npm i
 $ node julie.js
@@ -113,7 +113,7 @@ $ node julie.js
 Click WA logo to Join Support👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://www.instagram.com/janitha129?r=nametag)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://www.instagram.com/invites/contact/?i=m7lw1vx2wp3s&utm_content=6rahyb2)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
